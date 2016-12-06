@@ -1,0 +1,32 @@
+* {
+	font-family: Garamond;
+	text-align: center;
+}
+h1 {
+	font-size: 32pt;
+}
+h3 {
+	font-size: 24pt;
+}
+#form {
+	font-weight: bold;
+}
+#claim, #evidence, #name {
+	text-align: left;
+}
+#vote {
+	display: block;
+}
+.button {
+	font-size: 14pt;
+	padding: 2px 6px;
+	border: 2px solid black;
+	border-radius: 3px;
+	cursor: pointer;
+	text-align: justify;
+	margin: 5px;
+}
+.col { 
+	display: inline; 
+	margin: 0 20px; 
+}
